@@ -1,0 +1,9 @@
+ru\shara\application\config\AppContext.class
+ru\shara\application\dao\UserDaoImpl.class
+ru\shara\application\config\WebMvcConfig.class
+ru\shara\application\controller\UserController.class
+ru\shara\application\config\AppInitializer.class
+ru\shara\application\dao\UserDao.class
+ru\shara\application\model\User.class
+ru\shara\application\sevice\UserService.class
+ru\shara\application\sevice\UserServiceImpl.class
